@@ -5,6 +5,6 @@ GJP is a scientific practice in the sense that it is practiced by scientists. Ne
 
 Here we are going to describe aparticular social practice that is part of GJP: Vetting the quality of a research rationale in drug development. The paradigmatic example for GJP in this context is the decision-making process that underlies the "clinical translation" from "exploratory" phase 1 and 2 studies to "confirmatory" phase 3 clinical trials.
 
-As most concepts under scientific scrutinity, GJP of drug development (phase 1>>2>>3) is to complex to be studied directly *in realiter*. The first step of describing *what GJP is* and *what it is not* is to design a *model of GJP* that is a simplification but an instructive one. The second step ist to always remind oneself (and you, the reader) that it is a model that is designed to be an instructive simplification. We do not know everything about GJP, that's why it's interesting!
+As most concepts under scientific scrutinity, GJP of drug development (phase 1>>2>>3) is to complex to be studied directly and *realiter*. The first step of describing *what GJP is* and *what it is not* is to design a *model of GJP* that is a simplification but an instructive one. The second step ist to always remind oneself (and you, the reader) that it is a model that is designed to be an instructive simplification. We do not know everything about GJP, that's why it's interesting!
 
 Model of GJP for drug development (phase 1>>2>>3) 
